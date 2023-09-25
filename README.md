@@ -38,7 +38,7 @@ Computing backward pass for the basic RNN cell:
 The following figure shows the operations of an LSTM cell:
 
 <center>
-<img src="images/LSTM_figure4_v3a.png" style="width:900;height:400px;">
+<img src="images/LSTM_figure4_v3a.png" style="width:100%;height:400px;">
 </center>
 
 ## Forward Pass for  LSTM
