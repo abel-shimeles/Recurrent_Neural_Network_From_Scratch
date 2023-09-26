@@ -1,4 +1,4 @@
-# Recurrent_Neural_Network_From_Scratch
+# Recurrent Neural Network with NumPy.
 
 This repository is the implementation of a Recurrent Neural Network (RNN) in NumPy.
 
