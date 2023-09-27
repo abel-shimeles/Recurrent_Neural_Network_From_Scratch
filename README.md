@@ -59,7 +59,7 @@ Computing backward pass for the LSTM cell:
 1. Clone this repository
 
 ```shell
-git clone https://github.com/abel-shimeles/Recurrent_Neural_Network_From_Scratch
+git clone https://github.com/abel-shimeles/Recurrent_Neural_Network_From_Scratch.git
 cd Recurrent_Neural_Network_From_Scratch
 ```
 
